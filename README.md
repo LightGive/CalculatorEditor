@@ -1,8 +1,8 @@
 # CalculatorEditor
 Unityのドット絵ペイントツールのエディタ拡張です  
 
-## 使い方
-Unityのフォルダの何処かにEditorフォルダを作成してCalculatorEditor.csをいれてください。　　
+## 使い方  
+Unityのフォルダの何処かにEditorフォルダを作成してCalculatorEditor.csをいれてください。  
 UnityのメニューバーのToolsの中にあるCalculatorからウィンドウを開く事が出来ます。  
 普通の電卓と同じように使ってください。  
 
