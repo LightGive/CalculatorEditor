@@ -1,5 +1,5 @@
 # CalculatorEditor
-Unityのドット絵ペイントツールのエディタ拡張です  
+Unityで使える電卓のエディタ拡張です  
 
 ## 使い方  
 Unityのフォルダの何処かにEditorフォルダを作成してCalculatorEditor.csをいれてください。  
